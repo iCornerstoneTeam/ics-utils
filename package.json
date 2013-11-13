@@ -1,0 +1,24 @@
+{
+  "name": "ics-utils",
+  "version": "0.0.1",
+  "description": "Utilities for interfacing with ICS services",
+  "main": "index.js",
+  "dependencies" : {
+	"express" : "3.4.x",
+    "mime" : "1.2.x",
+	"request" : "2.27.x",
+	"winston" : "0.7.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iCornerstoneTeam/ics-utils.git"
+  },
+  "author": "John Manero <john.manero@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iCornerstoneTeam/ics-utils/issues"
+  }
+}
