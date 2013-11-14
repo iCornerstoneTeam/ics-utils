@@ -2,7 +2,7 @@
  * Expose useful things
  */
 exports.Control = {
-    asset : require("./lib/control/asset")
+    Asset : require("./lib/control/asset")
 };
 exports.Interface = {
     Session : require("./lib/interface/session")
